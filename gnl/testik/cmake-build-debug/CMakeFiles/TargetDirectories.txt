@@ -1,3 +1,0 @@
-/home/aleksandr/CLionProjects/gnl/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/aleksandr/CLionProjects/gnl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/aleksandr/CLionProjects/gnl/cmake-build-debug/CMakeFiles/gnl.dir
